@@ -48,4 +48,4 @@ and execute command.
 
 -------
 
- ### Thank you
+### Thank you. :laughing:
